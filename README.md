@@ -41,16 +41,16 @@
   </tr>
   <tr>
     <td><b>Availability</b></td>
-    <td>The site updates automatically as new projects reach production-ready status.</td>
+    <td>The site updates automatically as new projects reach production ready status.</td>
   </tr>
 </table>
 
 <h2>What to Expect</h2>
-<p>This portal is designed to host a variety of high-quality digital resources, including:</p>
+<p>This portal is designed to host a variety of high quality digital resources, including:</p>
 <ul>
   <li><b>Financial Literacy Tools:</b> Calculators and budgeting assistants.</li>
   <li><b>Math Learning Modules:</b> Interactive guides for foundational concepts.</li>
-  <li><b>Open-Source Projects:</b> Tools developed to solve real-world problems.</li>
+  <li><b>Open-Source Projects:</b> Tools developed to solve real world problems.</li>
 </ul>
 
 <h2>Stay Tuned</h2>
